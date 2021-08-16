@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hey, I am <span style="color:blue">Bhavnoor</span>!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bhavnoor-kaur/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-blue?style=flat&logo=gmail&logoColor=white&color=0D76A8)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=bhavnoorks@gmail.com)
 
+I am a software engineering student at University of Alberta. 
 <!--
 **Bhavnoor-Kaur/Bhavnoor-Kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
